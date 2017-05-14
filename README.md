@@ -11,9 +11,9 @@ Usage
 Clone the app and push it to CloudFoundry.
 
 ```
-git clone https://github.com/cloudfoundry-samples/cf-ex-composer
+git clone https://github.com/nagelpat/cf-ex-composer
 cd cf-ex-composer
-cf push
+cf push -f manifest.yml
 ```
 
 Access your application URL in the browser.
