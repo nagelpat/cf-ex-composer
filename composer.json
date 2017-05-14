@@ -1,7 +1,7 @@
 {
     "require": {
         "monolog/monolog": "1.0.*",
-        "php": ">=5.3",
+        "php": ">=5.6",
         "ext-zip": "*",
         "ext-gd": "*",
         "ext-fileinfo": "*",
